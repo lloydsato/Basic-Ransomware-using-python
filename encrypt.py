@@ -2,7 +2,6 @@ import os
 from cryptography.fernet import Fernet
 
 # listing files
-
 files = []
 
 for file in os.listdir():
