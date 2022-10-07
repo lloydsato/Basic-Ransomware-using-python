@@ -6,3 +6,5 @@ Fernet guarantees that a message encrypted using it cannot be manipulated or rea
 For more info visit https://cryptography.io/en/latest/fernet/
 
 Running the encrypt.py file will generate a key and store it in the "thekey.key" file. This key can be used to decrypt the file once it is encrypted.
+
+Credits to Networkchuck
